@@ -45,4 +45,4 @@ If you find any bugs or have suggestions, feel free to open an [Issue](https://g
 
 ---
 
-© 2025 Loopz Games Studios. All rights reserved.
+© 2026 Loopz Games Studios. All rights reserved.
