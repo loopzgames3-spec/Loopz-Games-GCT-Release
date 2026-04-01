@@ -1,1 +1,1 @@
-1.0.0|https://github.com/loopzgames3-spec/Loopz-Games-GCT-Release/releases/download/v1.0.0/LoopzGamesGTC.exe
+1.0.0|https://github.com/loopzgames3-spec/Loopz-Games-GCT-Release/releases/download/v1.2.0/LoopzGamesGTC.exe
